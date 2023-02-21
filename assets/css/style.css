@@ -23,11 +23,11 @@ a:hover {
   text-decoration: none;
 }
 .logo .logo-img{
-  height:100px;
-  width:200px;
+  height:200px;
+  width:300px;
 }
 bold{
-  color:#AF5CE9;
+  color:#AF5CE9 !important;
 }
 
 h1,
@@ -283,6 +283,10 @@ h6 {
 
   .navbar .dropdown .dropdown:hover>ul {
     left: -100%;
+  }
+  .logo .logo-img{
+    height:50px;
+    width:150px;
   }
 }
 
