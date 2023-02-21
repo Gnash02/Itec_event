@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #73c5eb;
+  color: #8B6AEF;
   text-decoration: none;
 }
 
@@ -105,8 +105,8 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #6bc1e9;
-  color: #fff;
+  background: #AF5CE9;
+  color: #47b2e4;
 }
 
 .back-to-top.active {
@@ -192,7 +192,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #AF5CE9;
+  color: #8B6AEF;
 }
 
 .navbar .getstarted,
@@ -209,7 +209,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #31a9e1;
+  background: #8B6AEF;
 }
 
 .navbar .dropdown ul {
@@ -247,7 +247,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #AF5CE9;
+  color: #8B6AEF;
 }
 
 .navbar .dropdown:hover>ul {
@@ -347,7 +347,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #AF5CE9;
+  color: #8B6AEF;
 }
 
 .navbar-mobile .getstarted,
@@ -383,7 +383,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #AF5CE9;
+  color: #8B6AEF;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -432,7 +432,7 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #AF5CE9;
+  background: #8B6AEF;
 }
 
 #hero .btn-watch-video {
@@ -454,7 +454,7 @@ h6 {
 }
 
 #hero .btn-watch-video:hover i {
-  color: #AF5CE9;
+  color: #8B6AEF;
 }
 
 #hero .animated {
@@ -662,7 +662,7 @@ section {
 }
 
 .about .content .btn-learn-more:hover {
-  background: #AF5CE9;
+  background: #8B6AEF;
   color: #fff;
   text-decoration: none;
 }
@@ -722,7 +722,7 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color: #AF5CE9;
+  color: #8B6AEF;
 }
 
 
@@ -900,7 +900,7 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #AF5CE9;
+  color: #8B6AEF;
 }
 
 #footer .footer-top .social-links a {
@@ -919,7 +919,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
+  background: #8B6AEF;
   color: #fff;
   text-decoration: none;
 }
