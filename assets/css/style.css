@@ -22,7 +22,7 @@ a:hover {
   color: #8B6AEF;
   text-decoration: none;
 }
-.logo-img{
+.logo .logo-img{
   height:100%;
   width:fit-content;
 }
