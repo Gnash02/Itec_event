@@ -969,6 +969,24 @@ section {
   #footer .credits {
     padding-top: 4px;
   }
+  .services .row .intervenant img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.intervenant{
+  height: 300px;
+  margin-bottom: 100px;
+}
+.services .row .intervenant span{
+  color: #8B6AEF;
+  font-size: 13px;
+}
+.services .row .logo-st img{
+  width: 150px;
+  height: 80px;
+  
+}
 }
 .services .row .intervenant img{
     width: 150px;
